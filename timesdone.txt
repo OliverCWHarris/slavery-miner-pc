@@ -1,0 +1,1 @@
+this file contains the records of how many time the sell comand happened
